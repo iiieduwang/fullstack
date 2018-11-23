@@ -2,7 +2,6 @@
 
 # dependencies
 /node_modules
-/reactapp/node_modules
 /.pnp
 .pnp.js
 
